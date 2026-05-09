@@ -1,0 +1,25 @@
+{
+  "name": "bvb",
+  "version": "1.0.0",
+  "description": "BVB Skills Pack — analiza Bursa de Valori Bucuresti (TLV, SNP, SNG, TGN, H2O, BRD, FP, EL, M, DIGI, etc.). 6 skills: analiza ticker, stiri si calendar, screener, dividend, portofoliu, macro RO. Mod incepator-friendly cu glosar inline si avertismente de risc obligatorii. NU este consultanta financiara.",
+  "author": {
+    "name": "LawChat.ro",
+    "url": "https://lawchat.ro",
+    "email": "drociu@gmail.com"
+  },
+  "homepage": "https://github.com/LCBO/stock-exchange-intel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LCBO/stock-exchange-intel.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bvb",
+    "bursa",
+    "romania",
+    "stocks",
+    "trading",
+    "dividend",
+    "lawchat"
+  ]
+}

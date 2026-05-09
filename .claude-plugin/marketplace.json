@@ -1,0 +1,42 @@
+{
+  "name": "stock-exchange-intel",
+  "owner": {
+    "name": "LawChat.ro",
+    "url": "https://lawchat.ro",
+    "email": "drociu@gmail.com"
+  },
+  "metadata": {
+    "description": "BVB Skills Pack — analiza Bursa de Valori Bucuresti pentru Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bvb",
+      "source": "./",
+      "description": "Pachet skills pentru analiza pietei bursiere romanesti (BVB): analiza ticker, stiri, screener, dividend, portofoliu, macro RO. Include 6 skills cu glosar pentru incepatori si avertismente de risc.",
+      "version": "1.0.0",
+      "author": {
+        "name": "LawChat.ro",
+        "url": "https://lawchat.ro"
+      },
+      "homepage": "https://github.com/LCBO/stock-exchange-intel",
+      "repository": "https://github.com/LCBO/stock-exchange-intel",
+      "license": "MIT",
+      "keywords": [
+        "bvb",
+        "bursa",
+        "romania",
+        "stocks",
+        "trading",
+        "investitii",
+        "dividend",
+        "actiuni",
+        "BET",
+        "TLV",
+        "SNP",
+        "lawchat"
+      ],
+      "category": "finance"
+    }
+  ]
+}
